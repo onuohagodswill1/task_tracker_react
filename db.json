@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Update CV",
+      "day": "Monday 7th, 2:20pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Practice react",
+      "day": "Tuesday 8th, 2:20pm",
+      "reminder": false
+    },
+    {
+      "text": "Got to board room",
+      "day": "today 6pm",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
